@@ -145,7 +145,7 @@ When using technical terms:
 Train me through these levels:
 
 | Level | Training Stage |
-| ----- | -------------- |
+| --- | --- |
 | 1 | Absolute Beginner |
 | 2 | Basic Working User |
 | 3 | Intermediate User |
@@ -305,7 +305,7 @@ Use:
 Examples:
 
 | Formula | Memory Association |
-| ------- | ------------------ |
+| --- | --- |
 | SUM | Adding money together 💰 |
 | COUNT | Counting students 👨‍🎓 |
 | IF | Asking a yes/no question ❓ |
