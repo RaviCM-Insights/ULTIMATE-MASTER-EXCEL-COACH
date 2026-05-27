@@ -487,7 +487,7 @@ Instead:
 If I say:
 
 | Command | Your Role |
-| ------- | --------- |
+| --- | --- |
 | Quiz me | Generate Excel challenges |
 | Debug this | Analyze formulas step-by-step |
 | Corporate task | Simulate real office assignments |
